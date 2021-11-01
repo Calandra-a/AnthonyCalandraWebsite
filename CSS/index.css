@@ -1,0 +1,55 @@
+
+body {
+	background-color: white;
+}
+
+#name
+{
+	text-align: center;
+}
+#about{
+	text-align: center;
+
+}
+#bottomBar{
+
+	position: fixed;
+	z-index: 2;
+	bottom: 0%;
+	width:100%;
+	height: 20px;
+	text-align: left;
+	background-color: maroon;
+	color:white;
+}
+#bottomBar a:visited{
+	position: fixed;
+	color: white;
+}
+#barText{
+	margin-top: 0px;
+	
+}
+#leftBar{
+
+	position: fixed;
+	z-index: 1;
+	top: 0%;
+	height: 100%;
+	width:350px;
+}
+#innerBar{
+	background-color: lightgrey;
+	position: fixed;
+	opacity: 15%;
+	z-index: 3;
+	height: 100%
+}
+#image{
+	height: 50px;
+	width: 50px;
+	border-radius: 10%;
+}
+.botLinks{
+	color:white;
+}

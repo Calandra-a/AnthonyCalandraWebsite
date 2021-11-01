@@ -1,0 +1,8 @@
+#image{
+
+	position: fixed;
+	height: 180px;
+	width: 230px;	
+	left: 50%;	
+    margin-left: -115; /* Half the width */
+}
