@@ -41,7 +41,7 @@ body {
 #innerBar{
 	background-color: lightgrey;
 	position: fixed;
-	opacity: 15%;
+	opacity: 80%;
 	z-index: 3;
 	height: 100%
 }
